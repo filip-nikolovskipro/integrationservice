@@ -1,0 +1,26 @@
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: integrationservice
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: integrationservice-app
+        component: integrationservice
+    spec:
+      containers:
+        - name: integrationservice
+          image: fnikolovski/backgroundworker:version01
+          imagePullPolicy: Always
+          env:
+            - name: TenantId
+              value: '340' 
+            - name: MongoConnectionString
+              value: mongodb://localhost:27017
+            - name: MongoDatabase
+              value: CallsCollectorDB 
+          ports:
+            - containerPort: 80

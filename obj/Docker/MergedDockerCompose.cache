@@ -1,0 +1,7 @@
+services:
+  backgroundworker:
+    build:
+      context: C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker
+      dockerfile: BackgroundWorker/Dockerfile
+    image: backgroundworker
+version: '3.4'

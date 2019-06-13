@@ -1,0 +1,17 @@
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\BackgroundWorker.deps.json
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\BackgroundWorker.runtimeconfig.json
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\BackgroundWorker.runtimeconfig.dev.json
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\BackgroundWorker.dll
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\BackgroundWorker.pdb
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.csprojAssemblyReference.cache
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.AssemblyInfoInputs.cache
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.AssemblyInfo.cs
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.dll
+C:\Projects\Labs\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.pdb
+C:\Projects\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.csprojAssemblyReference.cache
+C:\Projects\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Projects\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.AssemblyInfoInputs.cache
+C:\Projects\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.AssemblyInfo.cs
+C:\Projects\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.dll
+C:\Projects\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\BackgroundWorker.pdb

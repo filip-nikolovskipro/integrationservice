@@ -1,0 +1,14 @@
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\linux-x64\libhostpolicy.so
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\linux-x64\libhostfxr.so
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\linux-x64\BackgroundWorker
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\linux-x64\BackgroundWorker.deps.json
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\linux-x64\BackgroundWorker.runtimeconfig.json
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\linux-x64\BackgroundWorker.runtimeconfig.dev.json
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\linux-x64\BackgroundWorker.dll
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Release\netcoreapp2.2\linux-x64\BackgroundWorker.pdb
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\linux-x64\BackgroundWorker.csprojAssemblyReference.cache
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\linux-x64\BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\linux-x64\BackgroundWorker.AssemblyInfoInputs.cache
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\linux-x64\BackgroundWorker.AssemblyInfo.cs
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\linux-x64\BackgroundWorker.dll
+C:\Users\fnikolovski.OFFICE\Downloads\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Release\netcoreapp2.2\linux-x64\BackgroundWorker.pdb
