@@ -12,11 +12,11 @@ pipeline {
         git 'https://github.com/filip-nikolovskipro/integrationservice.git'
       }
     }
-    stage('Build') {
-       steps {
-         sh "docker build -t integrationservice:B${BUILD_NUMBER} -f Dockerfile ."
-       }
-    }
+    //stage('Build') {
+    //   steps {
+    //     sh "docker build -t integrationservice:B${BUILD_NUMBER} -f Dockerfile ."
+    //  }
+    //}
     // stage('Test') {
     //   steps {
     //     sh 'npm test'
