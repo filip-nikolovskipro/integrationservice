@@ -2,7 +2,7 @@ pipeline {
   environment {
     registry = "fnikolovski/backgroundworker"
     registryCredential = 'dockerhub'
-    dockerImage = ''
+    //dockerImage = ''
   }
   agent any
 
